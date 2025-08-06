@@ -1,0 +1,1 @@
+this project was our final project, we also presented it at the IMVC 2024 in Tel aviv. it is important to mention that this project was a learning experience rather than a functional one, we learned about cnn's, training YOLO which is an AI and much more.
